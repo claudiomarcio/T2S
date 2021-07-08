@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/API_REST/Domain/bin
+/API_REST/Domain/obj
+/API_REST/Infra/bin
+/API_REST/Infra/obj
+/API_REST/webapi/bin/Debug/netcoreapp2.2
+/API_REST/webapi/obj
+/API_REST/webapi/Ecad
+/REACT_FRONT/node_modules/.cache
+/REACT_FRONT/node_modules/.bin
+/REACT_FRONT/node_modules
